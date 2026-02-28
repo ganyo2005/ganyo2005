@@ -1,5 +1,98 @@
 # 💫 About Me:
-i am currently working on a uber project using a flutter and a django backend
+# 👋 Hi, I'm Ganyo Nicholas
+
+🚀 Passionate Developer | Problem Solver | System Builder  
+
+---
+
+## 🧠 About Me
+
+I’m a developer who enjoys solving complex problems and turning ideas into scalable systems.
+
+I don’t just write code — I design solutions.
+
+When faced with a challenge, I:
+- 🔍 Analyze the root problem before coding  
+- 🧩 Break it into smaller logical components  
+- 🏗 Design the architecture first  
+- 🧪 Consider edge cases early  
+- 🚀 Optimize after functionality is solid  
+
+I believe clean architecture beats quick hacks every time.
+
+---
+
+## 🚖 Currently Building: Uber-Style Ride App
+
+I’m currently working on a full-stack ride-hailing application inspired by Uber.
+
+### 🛠 Tech Stack
+
+- 📱 Flutter (Dart)
+- 🧠 Django + Django REST Framework
+- ⚡ Django Channels (WebSockets)
+- 🗄 PostgreSQL
+- 🔥 Redis
+
+---
+
+## 🚀 Key Features
+
+- Real-time driver matching  
+- Live driver location tracking  
+- Race-condition safe ride acceptance  
+- WebSocket-based status updates  
+- Fare calculation system  
+- Scalable backend architecture  
+
+---
+
+## 🧩 How It Works (Architecture)
+
+<details>
+  <summary>🚖 Click to Expand Architecture Overview</summary>
+
+  Rider App (Flutter)
+        ↓
+  REST API (Django)
+        ↓
+  PostgreSQL Database
+        ↓
+  Redis (Caching + Channel Layer)
+        ↓
+  WebSockets (Django Channels)
+        ↓
+  Driver App (Flutter)
+
+</details>
+
+---
+
+## 📈 Project Progress
+
+- [x] Authentication System
+- [x] Ride Request API
+- [x] Driver Matching Logic
+- [ ] WebSocket Integration
+- [ ] Payment System
+- [ ] Deployment
+
+---
+
+## 💡 What I’m Focused On
+
+- System design
+- Real-time applications
+- Backend scalability
+- Clean code principles
+- Building production-ready systems
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always open to collaboration, learning, and building impactful systems.
+
 
 
 ## 🌐 Socials:
