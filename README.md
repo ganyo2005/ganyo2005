@@ -24,7 +24,7 @@ I believe clean architecture beats quick hacks every time.
 
 ## 🚖 Currently Building: Uber-Style Ride App
 
-I’m currently working on a full-stack ride-hailing application inspired by Uber.
+I’m currently working on a full-stack meachanic order app.
 
 ### 🛠 Tech Stack
 
