@@ -22,28 +22,23 @@ I believe clean architecture beats quick hacks every time.
 
 ---
 
-## 🚖 Currently Building: Uber-Style Ride App
+## 🚖 Currently Building:Find meachnic app
 
 I’m currently working on a full-stack meachanic order app.
 
 ### 🛠 Tech Stack
 
 - 📱 Flutter (Dart)
-- 🧠 Django + Django REST Framework
-- ⚡ Django Channels (WebSockets)
+- 🧠 FastApi
 - 🗄 PostgreSQL
-- 🔥 Redis
+- 🔥 Firebase 
 
 ---
 
 ## 🚀 Key Features
 
-- Real-time driver matching  
-- Live driver location tracking  
-- Race-condition safe ride acceptance  
-- WebSocket-based status updates  
-- Fare calculation system  
-- Scalable backend architecture  
+- Real-time map     
+- Real time customer status 
 
 ---
 
@@ -52,17 +47,13 @@ I’m currently working on a full-stack meachanic order app.
 <details>
   <summary>🚖 Click to Expand Architecture Overview</summary>
 
-  Rider App (Flutter)
+  Find Meachnic  App (Flutter)
         ↓
-  REST API (Django)
+  FAST API (Python)
         ↓
   PostgreSQL Database
         ↓
-  Redis (Caching + Channel Layer)
-        ↓
-  WebSockets (Django Channels)
-        ↓
-  Driver App (Flutter)
+  Find Meachnic  App (Flutter)
 
 </details>
 
@@ -71,8 +62,8 @@ I’m currently working on a full-stack meachanic order app.
 ## 📈 Project Progress
 
 - [x] Authentication System
-- [x] Ride Request API
-- [x] Driver Matching Logic
+- [x] Find Meachnic Request API
+- [x] Meachnic finder Matching Logic
 - [ ] WebSocket Integration
 - [ ] Payment System
 - [ ] Deployment
